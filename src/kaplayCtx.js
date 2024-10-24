@@ -14,8 +14,8 @@ const k =kaplay({
             mouse: "left",
         }
     },
-    debugKey: "d",
-    debug: true,
+    touchToMouse:true,
+    debug: false,
 });
 
 export default k
